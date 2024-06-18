@@ -1,6 +1,7 @@
 # Data_Cleaning
 
 ## Overview
+![Data Cleaning] (https://github.com/Thelma-DataNerd/Data_Cleaning_Repo/blob/main/data_cleaning.jpg)
 
 This repository contains data cleaning projects and scripts to preprocess and refine various datasets.
 The goal is to provide clean, organized, and usable data for analysis and modeling.
