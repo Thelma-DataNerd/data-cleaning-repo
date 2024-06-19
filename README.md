@@ -44,4 +44,6 @@ The purpose of this repository is to:
  
   **Data Source**:
    https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring/data?select=fifa21+raw+data+v2.csv
+
+   *Google Colab was used as the primary platform for the Data Cleaning project.*
   
