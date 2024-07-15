@@ -5,8 +5,8 @@
 - [Contents](#Contents)
 - [Purpose](#Purpose)
 - [Dataset](#Dataset)
-- [Data Refining Steps](#Data Refining Steps)
-- [Data Source](#Data Source)
+- [Data Refining Steps](#data Refining Steps)
+- [Data Source](#data Source)
 
 
 
