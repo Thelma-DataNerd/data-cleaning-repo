@@ -6,7 +6,7 @@
 - [Purpose](#Purpose)
 - [Dataset](#Dataset)
 - [Data Refining Steps](#Data Refining Steps)
-- [**Data Source**](#**Data Source**)
+- [Data Source](#Data Source)
 
 
 
@@ -61,12 +61,13 @@ The purpose of this repository is to:
   - Sectors e.t.c
   
   ## Data Refining Steps
+  
   - Handling missing values.
   - Removing duplicates and redundant data.
   - Correcting errors and inconsistencies.
   - Standardizing data formats for analysis.
  
-  ## **Data Source**:
+  ## Data Source
   
    https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring/data?select=fifa21+raw+data+v2.csv
    https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv
