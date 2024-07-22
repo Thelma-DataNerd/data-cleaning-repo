@@ -4,7 +4,9 @@
 - [Overview](#Overview)
 - [Contents](#Contents)
 - [Purpose](#Purpose)
-- [Dataset](#Dataset)
+- [Datasets](#Datasets)
+- [Data_Refining_Steps](#Data_Refining_Steps)
+- [Dataset_Source](#Dataset_Source)
 
 
 ## Overview
@@ -29,8 +31,7 @@ The purpose of this repository is to:
 - Share knowledge and best practices in data cleaning
 
 ## Datasets
-
-### 1. FIFA_21 Dataset
+### 1. FIFA_21_Dataset
 
 - **Description**: Contains detailed attributes and skills of soccer players.
 
@@ -57,14 +58,14 @@ The purpose of this repository is to:
   - Job descriptions
   - Sectors e.t.c
   
-  ## Data Refining Steps:
+  ## Data_Refining_Steps:
   
   - Handling missing values.
   - Removing duplicates and redundant data.
   - Correcting errors and inconsistencies.
   - Standardizing data formats for analysis.
  
-  ## Dataset
+  ## Dataset_Source
   
    https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring/data?select=fifa21+raw+data+v2.csv
    https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv
