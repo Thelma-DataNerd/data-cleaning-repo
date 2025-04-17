@@ -1,74 +1,35 @@
-# Data_Cleaning
+## Data Cleaning
 
-## Table of Contents
+### Table of Contents
 - [Overview](#Overview)
-- [Contents](#Contents)
-- [Purpose](#Purpose)
-- [Datasets](#Datasets)
-- [Data_Refining_Steps](#Data_Refining_Steps)
-- [Dataset_Source](#Dataset_Source)
+- [FIFA 2021 ](#fifa-2021)
+- [Data Science Glassdoor Job Posting](#data-science-glassdoor-job-posting)
+- [Dataset Source](#dataset-source)
 
-
-## Overview
 
 <img src="https://github.com/Thelma-DataNerd/Data_Cleaning_Repo/blob/main/Data_cleaning.jpg" alt="Data Cleaning" width="500"/>
 
-This repository contains data cleaning projects and scripts to preprocess and refine various datasets.
-The goal is to provide clean, organized, and usable data for analysis and modeling.
+### Overview
+This repository contains data cleaning projects to preprocess and refine various datasets. The goal is to provide clean, organized, and usable data for analysis and modeling. Each folder contain the cleaned datasets.
 
-## Contents
+-- Tools: Python
+-- Platform: Google Colab
+-- Techniques: handling missing values, removing duplicates and redundant data, correcting errors and inconsistencies, standardizing data formats for analysis.
 
-**Datasets**: Folders containing original and cleaned datasets.
-**Scripts**: Python scripts for data cleaning and preprocessing
-**Documentation**: README files and docstrings explaining the cleaning process and scripts
+---
 
-## Purpose
+### FIFA 2021 
+- Content: Dataset contains 77 features that capture various aspects of soccer players' attributes and performance metrics, such as: Player information, performance attributes, skills and abilities, goalkeeping attributes, physical attributes, mental attributes, defensive attributes, total Stats, base Stats, and other miscellaneous attributes
 
-The purpose of this repository is to:
+Project Link: https://github.com/Thelma-DataNerd/data-cleaning-repo/blob/main/FIFA_21_Data_Cleaning.ipynb
 
-- Demonstrate data cleaning and preprocessing techniques
-- Provide clean datasets for analysis and modeling
-- Share knowledge and best practices in data cleaning
+### Data Science Glassdoor Job Posting 
+- Content: The dataset consist of information about job postings for Data Scientist positions on Glassdoor. It comprises 14 distinct features that collectively provide a comprehensive overview of Data Scientist job postings on Glassdoor, Such as: Job title, salary, company location, ratings, job descriptions, sectors e.t.c
 
-## Datasets
-### 1. FIFA_21_Dataset
+Project Link: https://github.com/Thelma-DataNerd/data-cleaning-repo/blob/main/Glassdoor_Job_Posting.ipynb
 
-- **Description**: Contains detailed attributes and skills of soccer players.
+### Dataset Source
+ * FiFa 2021: https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring/data?select=fifa21+raw+data+v2.csv
+ * Data Science Glassdoor: https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv
 
-- **Columns**: Contains 77 features that capture various aspects of soccer players' attributes and performance metrics, such as:
-  - Player information 
-  - Performance attributes 
-  - Skills and abilities 
-  - Goalkeeping attributes 
-  - Physical attributes
-  - Mental attributes 
-  - Defensive attributes 
-  - Total Stats, Base Stats, and other miscellaneous attributes
- 
-### 2. DS(Data Science)_Glassdoor_Job_Posting Dataset
-
-- **Description**: The dataset contains information about job postings for Data Scientist positions on Glassdoor.
-
-- **Columns**: It comprises 14 distinct features that collectively provide a comprehensive overview of Data Scientist job postings on Glassdoor,
-    encompassing a range of relevant attributes and characteristics. Such as:
-  - Job title
-  - Salary
-  - Company location
-  - Ratings
-  - Job descriptions
-  - Sectors e.t.c
-  
-  ## Data_Refining_Steps:
-  
-  - Handling missing values.
-  - Removing duplicates and redundant data.
-  - Correcting errors and inconsistencies.
-  - Standardizing data formats for analysis.
- 
-  ## Dataset_Source
-  
-   https://www.kaggle.com/datasets/yagunnersya/fifa-21-messy-raw-dataset-for-cleaning-exploring/data?select=fifa21+raw+data+v2.csv
-   https://www.kaggle.com/datasets/rashikrahmanpritom/data-science-job-posting-on-glassdoor?select=Uncleaned_DS_jobs.csv
-
-   *Google Colab was used as the primary platform for the Data Cleaning project.*
   
