@@ -12,9 +12,9 @@
 ### Overview
 This repository contains data cleaning projects to preprocess and refine various datasets. The goal is to provide clean, organized, and usable data for analysis and modeling. Each folder contain the cleaned datasets.
 
--- Tools: Python
--- Platform: Google Colab
--- Techniques: handling missing values, removing duplicates and redundant data, correcting errors and inconsistencies, standardizing data formats for analysis.
+* Tools: Python
+* Platform: Google Colab
+* Techniques: handling missing values, removing duplicates and redundant data, correcting errors and inconsistencies, standardizing data formats for analysis.
 
 ---
 
